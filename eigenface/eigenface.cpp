@@ -1,7 +1,3 @@
-//
-// Created by hw on 5/24/19.
-//
-
 #include <iostream>
 #include <opencv2/highgui.hpp>
 #include <opencv2/imgproc.hpp>
